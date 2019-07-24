@@ -1,0 +1,15 @@
+/.project
+out
+.gradle
+.idea
+.settings
+.classpath
+.externalToolBuilders/
+*.iml
+*.eml
+*.iws
+build
+/bin/
+src/main/resourcesDev/npacsConfig.properties
+.DS_Store
+**/*.log
